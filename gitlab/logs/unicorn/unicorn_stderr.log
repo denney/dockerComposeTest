@@ -4,3 +4,18 @@ I, [2019-01-02T12:26:23.623217 #1044]  INFO -- : listening on addr=/var/opt/gitl
 I, [2019-01-02T12:26:23.742119 #1044]  INFO -- : master process ready
 I, [2019-01-02T12:26:23.862366 #1291]  INFO -- : worker=1 ready
 I, [2019-01-02T12:26:23.899286 #1288]  INFO -- : worker=0 ready
+I, [2019-01-02T12:56:20.699711 #1044]  INFO -- : reaped #<Process::Status: pid 1288 exit 0> worker=0
+I, [2019-01-02T12:56:20.705026 #1044]  INFO -- : reaped #<Process::Status: pid 1291 exit 0> worker=1
+I, [2019-01-02T12:56:20.708477 #1044]  INFO -- : master complete
+I, [2019-01-02T13:00:26.795361 #636]  INFO -- : Refreshing Gem list
+I, [2019-01-02T13:01:10.237454 #636]  INFO -- : listening on addr=127.0.0.1:8080 fd=22
+I, [2019-01-02T13:01:10.240335 #636]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2019-01-02T13:01:10.241702 #636]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=23
+I, [2019-01-02T13:01:10.309938 #636]  INFO -- : master process ready
+I, [2019-01-02T13:01:10.372503 #825]  INFO -- : worker=0 ready
+I, [2019-01-02T13:01:10.395375 #828]  INFO -- : worker=1 ready
+E, [2019-01-02T13:41:23.795060 #636] ERROR -- : worker=0 PID:825 timeout (61s > 60s), killing
+E, [2019-01-02T13:41:25.609720 #636] ERROR -- : reaped #<Process::Status: pid 825 SIGKILL (signal 9)> worker=0
+I, [2019-01-02T13:41:28.554088 #5740]  INFO -- : worker=0 ready
+E, [2019-01-02T13:44:46.040852 #636] ERROR -- : worker=0 PID:5740 timeout (62s > 60s), killing
+E, [2019-01-02T13:44:48.186251 #636] ERROR -- : reaped #<Process::Status: pid 5740 SIGKILL (signal 9)> worker=0
