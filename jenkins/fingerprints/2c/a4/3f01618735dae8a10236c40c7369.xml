@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-12-24 09:04:22.749 UTC</timestamp>
+  <md5sum>2ca43f01618735dae8a10236c40c7369</md5sum>
+  <fileName>com.alibaba:jconsole.jar</fileName>
+  <usages>
+    <entry>
+      <string>mavenProject</string>
+      <ranges>4-27</ranges>
+    </entry>
+    <entry>
+      <string>mavenProject/com.light:authority-control-shiro</string>
+      <ranges>4-27</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

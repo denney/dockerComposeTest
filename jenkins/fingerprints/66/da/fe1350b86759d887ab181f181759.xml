@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-12-24 09:04:23.595 UTC</timestamp>
+  <md5sum>66dafe1350b86759d887ab181f181759</md5sum>
+  <fileName>org.apache.shiro:shiro-crypto-hash-1.4.0.jar</fileName>
+  <usages>
+    <entry>
+      <string>mavenProject</string>
+      <ranges>4-27</ranges>
+    </entry>
+    <entry>
+      <string>mavenProject/com.light:authority-control-shiro</string>
+      <ranges>4-27</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

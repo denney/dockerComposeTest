@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-12-24 09:04:24.414 UTC</timestamp>
+  <md5sum>f85e0e9af65d644d909fe2d6acc0e64c</md5sum>
+  <fileName>com.fasterxml.jackson.core:jackson-core-2.8.8.jar</fileName>
+  <usages>
+    <entry>
+      <string>mavenProject</string>
+      <ranges>4-27</ranges>
+    </entry>
+    <entry>
+      <string>mavenProject/com.light:authority-control-shiro</string>
+      <ranges>4-27</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

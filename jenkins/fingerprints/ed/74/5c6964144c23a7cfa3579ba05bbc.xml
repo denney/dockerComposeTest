@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-02 07:01:09.607 UTC</timestamp>
+  <original>
+    <name>mavenProject/com.light:authority-control-shiro</name>
+    <number>26</number>
+  </original>
+  <md5sum>ed745c6964144c23a7cfa3579ba05bbc</md5sum>
+  <fileName>com.light:test.war</fileName>
+  <usages>
+    <entry>
+      <string>mavenProject</string>
+      <ranges>26</ranges>
+    </entry>
+    <entry>
+      <string>mavenProject/com.light:authority-control-shiro</string>
+      <ranges>26</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

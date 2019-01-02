@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-12-24 09:04:21.501 UTC</timestamp>
+  <md5sum>1800130a0832b09c7bc95e074334882f</md5sum>
+  <fileName>tk.mybatis:mapper-3.4.5.jar</fileName>
+  <usages>
+    <entry>
+      <string>mavenProject</string>
+      <ranges>4-27</ranges>
+    </entry>
+    <entry>
+      <string>mavenProject/com.light:authority-control-shiro</string>
+      <ranges>4-27</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

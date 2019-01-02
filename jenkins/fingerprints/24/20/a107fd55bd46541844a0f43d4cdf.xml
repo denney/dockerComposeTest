@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-12-24 09:04:23.839 UTC</timestamp>
+  <md5sum>2420a107fd55bd46541844a0f43d4cdf</md5sum>
+  <fileName>mysql:mysql-connector-java-6.0.6.jar</fileName>
+  <usages>
+    <entry>
+      <string>mavenProject</string>
+      <ranges>4-21</ranges>
+    </entry>
+    <entry>
+      <string>mavenProject/com.light:authority-control-shiro</string>
+      <ranges>4-21</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-12-26 02:40:40.634 UTC</timestamp>
+  <original>
+    <name>mavenProject/com.light:authority-control-shiro</name>
+    <number>22</number>
+  </original>
+  <md5sum>9e5639bd906935aa62bf0db04732b923</md5sum>
+  <fileName>com.light:authority-control-shiro:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>mavenProject</string>
+      <ranges>22-27</ranges>
+    </entry>
+    <entry>
+      <string>mavenProject/com.light:authority-control-shiro</string>
+      <ranges>22-27</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
