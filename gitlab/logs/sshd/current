@@ -1,2 +1,26 @@
-2019-01-02_13:00:09.70307 Server listening on 0.0.0.0 port 22.
-2019-01-02_13:00:09.70364 Server listening on :: port 22.
+2019-01-02_14:27:27.92937 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2019-01-02_14:27:27.93003 @         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+2019-01-02_14:27:27.93054 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2019-01-02_14:27:27.93093 Permissions 0777 for '/etc/gitlab/ssh_host_rsa_key' are too open.
+2019-01-02_14:27:27.93127 It is required that your private key files are NOT accessible by others.
+2019-01-02_14:27:27.93163 This private key will be ignored.
+2019-01-02_14:27:27.93204 key_load_private: bad permissions
+2019-01-02_14:27:27.93292 Could not load host key: /etc/gitlab/ssh_host_rsa_key
+2019-01-02_14:27:27.93416 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2019-01-02_14:27:27.93446 @         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+2019-01-02_14:27:27.93485 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2019-01-02_14:27:27.93508 Permissions 0777 for '/etc/gitlab/ssh_host_ecdsa_key' are too open.
+2019-01-02_14:27:27.93534 It is required that your private key files are NOT accessible by others.
+2019-01-02_14:27:27.94025 This private key will be ignored.
+2019-01-02_14:27:27.94061 key_load_private: bad permissions
+2019-01-02_14:27:27.94351 Could not load host key: /etc/gitlab/ssh_host_ecdsa_key
+2019-01-02_14:27:27.94479 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2019-01-02_14:27:27.94515 @         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+2019-01-02_14:27:27.94561 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2019-01-02_14:27:27.94593 Permissions 0777 for '/etc/gitlab/ssh_host_ed25519_key' are too open.
+2019-01-02_14:27:27.94637 It is required that your private key files are NOT accessible by others.
+2019-01-02_14:27:27.94687 This private key will be ignored.
+2019-01-02_14:27:27.94725 key_load_private: bad permissions
+2019-01-02_14:27:27.95067 Could not load host key: /etc/gitlab/ssh_host_ed25519_key
+2019-01-02_14:27:27.95100 Server listening on 0.0.0.0 port 22.
+2019-01-02_14:27:27.95135 Server listening on :: port 22.

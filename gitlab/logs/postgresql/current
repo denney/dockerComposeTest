@@ -3,3 +3,15 @@
 2019-01-02_13:00:25.31182 LOG:  database system is ready to accept connections
 2019-01-02_13:00:25.32470 LOG:  autovacuum launcher started
 2019-01-02_13:41:25.59274 LOG:  could not receive data from client: Connection reset by peer
+2019-01-02_13:47:26.86154 LOG:  could not send data to client: Broken pipe
+2019-01-02_13:47:26.86247 FATAL:  connection to client lost
+2019-01-02_13:54:41.79475 FATAL:  terminating connection due to idle-in-transaction timeout
+2019-01-02_13:54:45.34601 LOG:  could not send data to client: Broken pipe
+2019-01-02_13:54:45.34637 FATAL:  connection to client lost
+2019-01-02_14:27:39.37672 LOG:  database system was interrupted; last known up at 2019-01-02 14:00:25 GMT
+2019-01-02_14:27:47.06010 LOG:  database system was not properly shut down; automatic recovery in progress
+2019-01-02_14:27:47.17743 LOG:  invalid record length at 0/1B495B0: wanted 24, got 0
+2019-01-02_14:27:47.17783 LOG:  redo is not required
+2019-01-02_14:27:47.47584 LOG:  MultiXact member wraparound protections are now enabled
+2019-01-02_14:27:47.48158 LOG:  database system is ready to accept connections
+2019-01-02_14:27:47.48296 LOG:  autovacuum launcher started
