@@ -4,6 +4,7 @@ services:
 
   #tomcat容器
   tomcatcom:
+    hostname: tomcathostname
     #使用的镜像
     image: daocloud.io/zuzhimingchengs/tomcat1:dst
     #容器的映射端口
