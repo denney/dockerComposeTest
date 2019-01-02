@@ -1,0 +1,22 @@
+2019-01-02_12:24:42.43577                 _._                                                  
+2019-01-02_12:24:42.43608            _.-``__ ''-._                                             
+2019-01-02_12:24:42.43628       _.-``    `.  `_.  ''-._           Redis 3.2.12 (00000000/0) 64 bit
+2019-01-02_12:24:42.43648   .-`` .-```.  ```\/    _.,_ ''-._                                   
+2019-01-02_12:24:42.43667  (    '      ,       .-`  | `,    )     Running in standalone mode
+2019-01-02_12:24:42.43690  |`-._`-...-` __...-.``-._|'` _.-'|     Port: 0
+2019-01-02_12:24:42.43707  |    `-._   `._    /     _.-'    |     PID: 735
+2019-01-02_12:24:42.43726   `-._    `-._  `-./  _.-'    _.-'                                   
+2019-01-02_12:24:42.43752  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2019-01-02_12:24:42.43773  |    `-._`-._        _.-'_.-'    |           http://redis.io        
+2019-01-02_12:24:42.43792   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2019-01-02_12:24:42.43812  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2019-01-02_12:24:42.43830  |    `-._`-._        _.-'_.-'    |                                  
+2019-01-02_12:24:42.43851   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2019-01-02_12:24:42.43875       `-._    `-.__.-'    _.-'                                       
+2019-01-02_12:24:42.43896           `-._        _.-'                                           
+2019-01-02_12:24:42.43919               `-.__.-'                                               
+2019-01-02_12:24:42.43955 
+2019-01-02_12:24:42.43972 735:M 02 Jan 12:24:42.435 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+2019-01-02_12:24:42.43992 735:M 02 Jan 12:24:42.435 # Server started, Redis version 3.2.12
+2019-01-02_12:24:42.44012 735:M 02 Jan 12:24:42.436 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+2019-01-02_12:24:42.44034 735:M 02 Jan 12:24:42.436 * The server is now ready to accept connections at /var/opt/gitlab/redis/redis.socket

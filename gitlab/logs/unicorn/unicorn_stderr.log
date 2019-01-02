@@ -1,0 +1,6 @@
+I, [2019-01-02T12:25:51.317656 #1044]  INFO -- : Refreshing Gem list
+I, [2019-01-02T12:26:23.615080 #1044]  INFO -- : listening on addr=127.0.0.1:8080 fd=22
+I, [2019-01-02T12:26:23.623217 #1044]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=23
+I, [2019-01-02T12:26:23.742119 #1044]  INFO -- : master process ready
+I, [2019-01-02T12:26:23.862366 #1291]  INFO -- : worker=1 ready
+I, [2019-01-02T12:26:23.899286 #1288]  INFO -- : worker=0 ready

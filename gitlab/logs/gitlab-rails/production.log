@@ -1,0 +1,64 @@
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :system. Overwriting existing method Importers::PrometheusMetric.system.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :created. Overwriting existing method Ci::Stage.created.
+Creating scope :pending. Overwriting existing method Ci::Stage.pending.
+Creating scope :running. Overwriting existing method Ci::Stage.running.
+Creating scope :success. Overwriting existing method Ci::Stage.success.
+Creating scope :failed. Overwriting existing method Ci::Stage.failed.
+Creating scope :canceled. Overwriting existing method Ci::Stage.canceled.
+Creating scope :skipped. Overwriting existing method Ci::Stage.skipped.
+Creating scope :manual. Overwriting existing method Ci::Stage.manual.
+Creating scope :scheduled. Overwriting existing method Ci::Stage.scheduled.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :fresh. Overwriting existing method ProjectSnippet.fresh.
+Creating scope :system. Overwriting existing method PrometheusMetric.system.
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Creating scope :created. Overwriting existing method Ci::Stage.created.
+Creating scope :pending. Overwriting existing method Ci::Stage.pending.
+Creating scope :running. Overwriting existing method Ci::Stage.running.
+Creating scope :success. Overwriting existing method Ci::Stage.success.
+Creating scope :failed. Overwriting existing method Ci::Stage.failed.
+Creating scope :canceled. Overwriting existing method Ci::Stage.canceled.
+Creating scope :skipped. Overwriting existing method Ci::Stage.skipped.
+Creating scope :manual. Overwriting existing method Ci::Stage.manual.
+Creating scope :scheduled. Overwriting existing method Ci::Stage.scheduled.
+Creating scope :order_name_asc. Overwriting existing method Label.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Label.order_name_desc.
+Creating scope :order_name_asc. Overwriting existing method Member.order_name_asc.
+Creating scope :order_name_desc. Overwriting existing method Member.order_name_desc.
+Creating scope :fresh. Overwriting existing method ProjectSnippet.fresh.
+Creating scope :system. Overwriting existing method PrometheusMetric.system.
+Started GET "/" for  at 2019-01-02 12:26:21 +0000
+Processing by RootController#index as HTML
+Redirected to http://example.org/users/sign_in
+Filter chain halted as :redirect_unlogged_user rendered or redirected
+Completed 302 Found in 27ms (ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2019-01-02 12:26:55 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 155ms (Views: 151.2ms | ActiveRecord: 83.9ms)
+Creating scope :of_projects. Overwriting existing method MergeRequest.of_projects.
+Creating scope :join_project. Overwriting existing method MergeRequest.join_project.
+Creating scope :references_project. Overwriting existing method MergeRequest.references_project.
+Creating scope :system. Overwriting existing method Note.system.
+Started GET "/-/metrics" for 127.0.0.1 at 2019-01-02 12:27:10 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
