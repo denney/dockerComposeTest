@@ -1,0 +1,23 @@
+commit 0a4d80b44bae746b0cce19c8c1055f25efe7c4e3
+tree 8667653adbc731b4346b69c1ca3b4b2661d19e09
+parent 172702bdfb29dcfff0d84dfde121fb0c58d3f56e
+author admin <695493589@qq.com> 2018-12-26 08:51:29 +0800
+committer admin <695493589@qq.com> 2018-12-26 08:51:29 +0800
+
+    test
+
+
+
+:100644 100644 c2bae49d78cdb2540ca8aac31d8f1020aedb1836 4987ecabe8cc60acf2c5e5baf92fcfa40b52f1c3 M	.idea/encodings.xml
+:100644 100644 ff67e88b89ccf36c1554da5c440ed539fe828aaa f00a25926f54c008f6b7de2ef54cb06ab197c02e M	src/main/resources/db.properties
+commit 172702bdfb29dcfff0d84dfde121fb0c58d3f56e
+tree 095cd72eaf13f9beb744173095cf9243d8c14c38
+parent 912a7a318647e61343b1995f16fc80f44caab2f4
+author admin <695493589@qq.com> 2018-12-25 13:13:41 +0800
+committer admin <695493589@qq.com> 2018-12-25 13:13:41 +0800
+
+    test
+
+
+
+:100644 100644 b6efe187cd21f23a175463e052e62be91b3621c3 1c1166d8bf554fe0bc9cc0a59cb1d7df217e9e21 M	src/main/webapp/resources/js/login.js

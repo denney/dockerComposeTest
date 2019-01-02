@@ -1,0 +1,16 @@
+commit c98535287cb80c00d0491edd422362998cc073ff
+tree d16100ce23c567805ea3e8ff65b2d9380c3d47ce
+parent 0a4d80b44bae746b0cce19c8c1055f25efe7c4e3
+author admin <695493589@qq.com> 2018-12-26 10:34:19 +0800
+committer admin <695493589@qq.com> 2018-12-26 10:34:19 +0800
+
+    test
+
+
+
+:100644 100644 5c027425d5345365d3bdc23a37e9d046ff5fb9fd 2aa78e1135261e8a3b2921764405e41f5dc3f6e4 M	pom.xml
+:100644 100644 7446b192560048ff064f626a4e33b9b249de0804 e8a593b3a16012a354d23e521c061aac0a22aadd M	src/main/java/com/light/ac/web/controller/LoginController.java
+:100644 100644 57ba2e6f4a9e2c958c09a6c622fb73f88eb650d7 c45de371451648c36bae9042a1aeed3fc253aef1 M	src/main/java/com/light/ac/web/controller/PermissionController.java
+:100644 100644 29e06cef6d2c422d994b2f9dc53eab5e5f992ee4 bc47fc22995d4652854fce2a7d27d0b7e03273da M	src/main/java/com/light/ac/web/controller/UserController.java
+:100644 100644 55f53c70a25edc23ea3ce08e36e6534a444317d5 916eef6b1522a78ca503a73d4abd9d0a76af1fff M	src/main/webapp/WEB-INF/web.xml
+:100644 100644 630ad31c407ac192f7045a16060e1224e3df615e 4cf9d257eb586fa4aa89451bb8adfa0000e61db2 M	src/main/webapp/resources/js/manageUI/config.js

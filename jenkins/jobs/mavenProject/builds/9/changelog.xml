@@ -1,0 +1,24 @@
+commit c8b056634b824084544bf9ab89b6f7a628bb9757
+tree 7117c14331adc1f830839be18fc09382897fc8b1
+parent c6946acbd253d45dcebe4e54a633f3e0fc0e9614
+author admin <695493589@qq.com> 2018-12-25 10:10:32 +0800
+committer admin <695493589@qq.com> 2018-12-25 10:10:32 +0800
+
+    test
+
+
+
+:100644 100644 4b2285ca2daba5cf4f08bb8dd996becc4adbac0c 573fdbaf3f2f74009114efa53354ad5951aae72d M	src/main/webapp/index.jsp
+commit c6946acbd253d45dcebe4e54a633f3e0fc0e9614
+tree 407eb42d283a16ba278edbda8d28f1a7446c72a8
+parent aca519135fc1fade5dd02bcbfec4b4880d9210cd
+author admin <695493589@qq.com> 2018-12-25 10:06:10 +0800
+committer admin <695493589@qq.com> 2018-12-25 10:06:10 +0800
+
+    test
+
+
+
+:100644 100644 9bc1522bb65a87fefc257cc32966be346b5a53d9 519e9604aeccb81450f20369c029b3b1b2fd7a83 M	authority-control-shiro.iml
+:100644 100644 04d89fb9cb3f933e1129a480e53ddb872334b464 7efc5b7bce0ea9b22dc6ea98c2be7ea7344affd8 M	src/main/java/com/light/ac/common/util/DESUtil.java
+:100644 100644 dbf94d770b566926a4f99c95c61265c1a269f242 4b2285ca2daba5cf4f08bb8dd996becc4adbac0c M	src/main/webapp/index.jsp
