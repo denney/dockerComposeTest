@@ -56,8 +56,8 @@
     <hudson.plugins.deploy.DeployPublisher plugin="deploy@1.13">
       <adapters>
         <hudson.plugins.deploy.tomcat.Tomcat8xAdapter>
-          <credentialsId>bf87f050-4cb7-4858-bb1d-a7b9ccfbe729</credentialsId>
-          <url>http://192.168.112.232:1111/</url>
+          <credentialsId>47dedf22-fd63-4c5f-bcc0-537641a8971e</credentialsId>
+          <url>http://192.168.1.3:1111/</url>
         </hudson.plugins.deploy.tomcat.Tomcat8xAdapter>
       </adapters>
       <contextPath>/test</contextPath>
