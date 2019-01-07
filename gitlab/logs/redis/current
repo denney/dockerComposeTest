@@ -149,3 +149,10 @@
 2019-01-02_15:12:48.05503 6371:C 02 Jan 15:12:48.054 * DB saved on disk
 2019-01-02_15:12:48.05543 6371:C 02 Jan 15:12:48.055 * RDB: 1 MB of memory used by copy-on-write
 2019-01-02_15:12:48.15177 517:M 02 Jan 15:12:48.151 * Background saving terminated with success
+2019-01-02_15:14:10.25969 517:signal-handler (1546442050) Received SIGTERM scheduling shutdown...
+2019-01-02_15:14:10.28991 517:M 02 Jan 15:14:10.289 # User requested shutdown...
+2019-01-02_15:14:10.29050 517:M 02 Jan 15:14:10.289 * Saving the final RDB snapshot before exiting.
+2019-01-02_15:14:10.29490 517:M 02 Jan 15:14:10.294 * DB saved on disk
+2019-01-02_15:14:10.29525 517:M 02 Jan 15:14:10.294 * Removing the pid file.
+2019-01-02_15:14:10.29607 517:M 02 Jan 15:14:10.296 * Removing the unix socket file.
+2019-01-02_15:14:10.29780 517:M 02 Jan 15:14:10.297 # Redis is now ready to exit, bye bye...

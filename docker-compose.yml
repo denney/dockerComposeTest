@@ -1,4 +1,4 @@
-version: '2'
+version: '3'
 services:
 
 
@@ -72,19 +72,19 @@ services:
     - LANG=en_US.UTF-8
 
 
-
-  #gitlba容器
-  gitlabcom:
-
-    hostname: gitlab.example.com
-    #镜像
-    image: gitlab/gitlab-ce:latest
-    ports:
-    - 443:443
-    - 81:80
-    - 33:22
-    restart: always
-    volumes:
-      - ./gitlab/config:/etc/gitlab:Z
-      - ./gitlab/logs:/var/log/gitlab:Z
-      - ./gitlab/data:/var/opt/gitlab:Z
+#
+#  #gitlba容器
+#  gitlabcom:
+#
+#    hostname: gitlab.example.com
+#    #镜像
+#    image: gitlab/gitlab-ce:latest
+#    ports:
+#    - 443:443
+#    - 81:80
+#    - 33:22
+#    restart: always
+#    volumes:
+#      - ./gitlab/config:/etc/gitlab:Z
+#      - ./gitlab/logs:/var/log/gitlab:Z
+#      - ./gitlab/data:/var/opt/gitlab:Z

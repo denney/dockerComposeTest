@@ -2389,3 +2389,9 @@ Completed 200 OK in 5ms (Views: 0.9ms | ActiveRecord: 0.0ms)
 Started GET "/help" for 127.0.0.1 at 2019-01-02 15:13:38 +0000
 Processing by HelpController#index as */*
 Completed 200 OK in 220ms (Views: 213.5ms | ActiveRecord: 1.3ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2019-01-02 15:13:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2019-01-02 15:14:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.4ms | ActiveRecord: 0.0ms)

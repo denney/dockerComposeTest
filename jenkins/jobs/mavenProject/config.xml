@@ -57,7 +57,7 @@
       <adapters>
         <hudson.plugins.deploy.tomcat.Tomcat8xAdapter>
           <credentialsId>47dedf22-fd63-4c5f-bcc0-537641a8971e</credentialsId>
-          <url>http://192.168.1.3:1111/</url>
+          <url>http://tomcatcom:8080/</url>
         </hudson.plugins.deploy.tomcat.Tomcat8xAdapter>
       </adapters>
       <contextPath>/test</contextPath>
