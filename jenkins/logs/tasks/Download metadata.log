@@ -1,4 +1,4 @@
-Started at Mon Jan 07 16:11:47 CST 2019
+Started at Tue Feb 12 16:45:40 CST 2019
 FATAL: update.jenkins.io
 java.net.UnknownHostException: update.jenkins.io
 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
@@ -22,4 +22,4 @@ java.net.UnknownHostException: update.jenkins.io
 	at jenkins.model.DownloadSettings$DailyCheck.execute(DownloadSettings.java:130)
 	at hudson.model.AsyncPeriodicWork$1.run(AsyncPeriodicWork.java:101)
 	at java.lang.Thread.run(Thread.java:748)
-Finished at Mon Jan 07 16:11:52 CST 2019. 5217ms
+Finished at Tue Feb 12 16:45:40 CST 2019. 147ms

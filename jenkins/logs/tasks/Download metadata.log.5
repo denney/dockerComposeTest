@@ -1,2 +1,25 @@
-Started at Wed Jan 02 21:00:40 CST 2019
-Finished at Wed Jan 02 21:00:40 CST 2019. 155ms
+Started at Fri Jan 11 10:33:42 CST 2019
+FATAL: update.jenkins.io
+java.net.UnknownHostException: update.jenkins.io
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at hudson.model.DownloadService.loadJSON(DownloadService.java:167)
+	at hudson.model.UpdateSite.updateDirectlyNow(UpdateSite.java:186)
+	at hudson.PluginManager.doCheckUpdatesServer(PluginManager.java:1648)
+	at jenkins.model.DownloadSettings$DailyCheck.execute(DownloadSettings.java:130)
+	at hudson.model.AsyncPeriodicWork$1.run(AsyncPeriodicWork.java:101)
+	at java.lang.Thread.run(Thread.java:748)
+Finished at Fri Jan 11 10:33:42 CST 2019. 498ms
