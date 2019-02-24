@@ -6,11 +6,11 @@
   <usages>
     <entry>
       <string>mavenProject</string>
-      <ranges>22-27,30-36</ranges>
+      <ranges>22-27,30-37</ranges>
     </entry>
     <entry>
       <string>mavenProject/com.light:authority-control-shiro</string>
-      <ranges>22-27,30-36</ranges>
+      <ranges>22-27,30-37</ranges>
     </entry>
   </usages>
   <facets/>
