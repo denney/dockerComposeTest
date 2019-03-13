@@ -1,0 +1,18 @@
+version: '2'
+services:
+  registry:
+    image: registry:2.5.1
+    hostname: registry
+    ports:
+      - "5000:5000"
+    environment:
+      - TZ="Asia/Shanghai"
+      - "REGISTRY_AUTH=htpasswd"
+      - "REGISTRY_AUTH_HTPASSWD_REALM=Registry Realm"
+      - REGISTRY_AUTH_HTPASSWD_PATH=/auth/htpasswd
+
+    volumes:
+      - ./auth:/auth
+      - ./registry:/var/lib/registry
+
+

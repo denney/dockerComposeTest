@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-02 13:38:16.823 UTC</timestamp>
+  <md5sum>b877db63d8e431329e3e6172228380e7</md5sum>
+  <fileName>Credential id=a92b7975-cd9d-4515-98e5-134643729d53 name=695493589@qq.com/******</fileName>
+  <usages>
+    <entry>
+      <string>mavenProject</string>
+      <ranges>28-37</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

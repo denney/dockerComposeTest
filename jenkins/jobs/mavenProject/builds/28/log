@@ -1,0 +1,33 @@
+Started by user [8mha:////4EgfbFC0+lEf02gYnxKORDLYJ9NJgYVTrH7Rh87ODr95AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /var/jenkins_home/workspace/mavenProject
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/denney/authority-control-testMavenProject.git # timeout=10
+Fetching upstream changes from https://github.com/denney/authority-control-testMavenProject.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/denney/authority-control-testMavenProject.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision da3253a7131cbeff3933b37475f061c81ba5dab8 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f da3253a7131cbeff3933b37475f061c81ba5dab8
+Commit message: "``"
+ > git rev-list --no-walk 0dbfa0272c50722b386d57ed8a34784d91c3d0ad # timeout=10
+ERROR: Failed to parse POMs
+java.io.IOException: hudson.maven.MavenEmbedderException: Couldn't find maven version information in '/var/jenkins_home/tools/hudson.tasks.Maven_MavenInstallation/maven'. Are you sure that this is a valid maven home?
+	at hudson.maven.MavenVersionCallable.call(MavenVersionCallable.java:73)
+	at hudson.maven.MavenVersionCallable.call(MavenVersionCallable.java:41)
+	at hudson.FilePath.act(FilePath.java:1165)
+	at hudson.maven.MavenModuleSetBuild$MavenModuleSetBuildExecution.doRun(MavenModuleSetBuild.java:641)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:504)
+	at hudson.model.Run.execute(Run.java:1810)
+	at hudson.maven.MavenModuleSetBuild.run(MavenModuleSetBuild.java:543)
+	at hudson.model.ResourceController.execute(ResourceController.java:97)
+	at hudson.model.Executor.run(Executor.java:429)
+Caused by: hudson.maven.MavenEmbedderException: Couldn't find maven version information in '/var/jenkins_home/tools/hudson.tasks.Maven_MavenInstallation/maven'. Are you sure that this is a valid maven home?
+	at hudson.maven.MavenEmbedderUtils.getMavenVersion(MavenEmbedderUtils.java:211)
+	at hudson.maven.MavenEmbedderUtils.getMavenVersion(MavenEmbedderUtils.java:191)
+	at hudson.maven.MavenVersionCallable.call(MavenVersionCallable.java:69)
+	... 8 more
+Finished: FAILURE

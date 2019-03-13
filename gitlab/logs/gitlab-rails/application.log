@@ -1,5 +1,0 @@
-# Logfile created on 2019-01-02 12:25:34 +0000 by logger.rb/61378
-January 02, 2019 12:25: User "Administrator" (admin@example.com) was created
-January 02, 2019 13:56: Failed Login: username=admin ip=172.18.0.1
-January 02, 2019 13:57: Successful Login: username=root ip=172.18.0.1 method=standard admin=true
-January 02, 2019 14:32: Administrator created a new project "Administrator / gitlabtest"

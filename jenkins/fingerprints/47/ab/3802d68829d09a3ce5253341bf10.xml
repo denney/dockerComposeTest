@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-02 14:16:57.107 UTC</timestamp>
+  <md5sum>47ab3802d68829d09a3ce5253341bf10</md5sum>
+  <fileName>Credential id=47dedf22-fd63-4c5f-bcc0-537641a8971e name=admin/******</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@2.1.18">
+      <timestamp>1550979073125</timestamp>
+      <itemFullName>mavenProject</itemFullName>
+      <timestamp0>1549961295327</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

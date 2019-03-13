@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.maven.MavenBuild plugin="maven-plugin@3.2">
+  <actions/>
+  <queueId>-1</queueId>
+  <timestamp>1546436415620</timestamp>
+  <startTime>1546436901179</startTime>
+  <result>ABORTED</result>
+  <duration>26</duration>
+  <charset>US-ASCII</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/var/jenkins_home/workspace/mavenProject</workspace>
+</hudson.maven.MavenBuild>

@@ -74,18 +74,16 @@ services:
 
 
 
-#  #gitlba容器
+  #gitlba容器
 #  gitlabcom:
-#
-#    hostname: gitlab.example.com
-#    #镜像
 #    image: gitlab/gitlab-ce:latest
+#    hostname: 192.168.112.232
 #    ports:
 #    - 443:443
 #    - 81:80
 #    - 33:22
 #    restart: always
 #    volumes:
-#      - ./gitlab/config:/etc/gitlab:Z
-#      - ./gitlab/logs:/var/log/gitlab:Z
-#      - ./gitlab/data:/var/opt/gitlab:Z
+#    - ./gitlab/config:/etc/gitlab
+#    - ./gitlab/logs:/var/log/gitlab
+#    - ./gitlab/data:/var/opt/gitlab
